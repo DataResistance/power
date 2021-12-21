@@ -9,6 +9,7 @@ But, here are a few links to some work we reference in the book:
 2. [A talk Jim gave on Resistance GIS](https://jethatch.github.io/resistancegis/#/)
 3. [Various syllabuses for Critical Data Studies courses over the years](https://github.com/jethatch/syllabuses)
 4. [Enfolding - a prototype of a Geographical Imagination System](https://github.com/FoldingSpace/enfolding) made by the wonderful Nick Lally and Luke Bergmann
+5. [On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets) is a brilliant discussion and list of what data sets don't exist, forcing us to ponder why not and how they might. [Mimi Onuoha](https://mimionuoha.com/)'s work is fantastic in general.
 
 So, apologies for now, much more to come, we hope you enjoyed the book and please be in touch if there's something you'd like us to share or just to discuss.
 
